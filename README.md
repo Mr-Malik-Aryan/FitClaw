@@ -12,8 +12,12 @@
   <img src="https://img.shields.io/badge/GPT--4o_Vision-Food_%26_OCR-412991?style=flat-square"/>
   <img src="https://img.shields.io/badge/Swiggy_MCP-Food_%7C_Instamart_%7C_Dineout-FC8019?style=flat-square"/>
 </p>
-
----
+<p align="center">
+  <img width="1238" height="812" alt="Home" src="https://github.com/user-attachments/assets/ae549373-bd2b-4342-b0a9-e4deac47a36e" />
+</p>
+<p align="center">
+<img width="1280" height="1146" alt="Dashboard" src="https://github.com/user-attachments/assets/c3344ea8-d619-4a08-a71d-84f0072efda8" />
+</p>
 
 ## What is FitClaw?
 
